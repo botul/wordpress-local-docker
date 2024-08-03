@@ -4,7 +4,7 @@
 ### Docker compose setup for local Wordpress development.
 
 ## Contents:
-* A Dockerfile for extending a base image and using a custom Docker image with an automated build on Docker Hub
+* A naginx Dockerfile for extending a base image and setup the ssl certs 
 * PHP 8.1
 * Custom local domain and HTTPS support
 * Custom nginx config in ./nginx
