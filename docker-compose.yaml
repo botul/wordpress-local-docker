@@ -1,0 +1,9 @@
+version: '3.3'
+
+volumes:
+  dbdata:
+  wordpress:
+
+networks:
+  my_network:
+    driver: bridge
