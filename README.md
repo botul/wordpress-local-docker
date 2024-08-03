@@ -1,10 +1,10 @@
 <a href="https://www.buymeacoffee.com/botul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-# wordpress-local-docker
-### Docker compose setup for local Wordpress development.
+# Simple local Wordpress setup
+### Docker compose setup for local Wordpress development with working SSL
 
 ## Contents:
-* A naginx Dockerfile for extending a base image and setup the ssl certs 
+* A nginx Dockerfile for extending a base image and setup the ssl certs 
 * PHP 8.1
 * Custom local domain and HTTPS support
 * Custom nginx config in ./nginx
